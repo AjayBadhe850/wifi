@@ -24,3 +24,4 @@ git clone https://github.com/AjayBadhe850/wifi.git
 cd wifi
 ```
 Open `index.html` directly or launch a local preview.
+
